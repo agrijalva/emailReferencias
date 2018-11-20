@@ -2,14 +2,14 @@
     "connectionString": {
         "user": "sa",
         "password": "S0p0rt3",
-        "server": "192.168.20.92",
+        "server": "192.168.20.29",
         "database": "referencias"
 
     },
     "connectionStringServer": {
         "user": "sa",
         "password": "S0p0rt3",
-        "server": "192.168.20.92",
+        "server": "192.168.20.29",
         "database": "referencias"
 
     }
